@@ -1,0 +1,8 @@
+{
+    "app_id": "graphql_react_app_boilerplate-dvgvc",
+    "config_version": 20210101,
+    "name": "GraphQL_React_App_Boilerplate",
+    "location": "IE",
+    "provider_region": "aws-eu-west-1",
+    "deployment_model": "LOCAL"
+}
